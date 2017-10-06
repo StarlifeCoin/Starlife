@@ -1,0 +1,2 @@
+# Starlife
+StarlifeCoin
